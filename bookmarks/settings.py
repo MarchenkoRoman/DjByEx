@@ -124,3 +124,6 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+# EMAIL settings
+EMAIL_HOST = 'smtp.econom-apteka.ks.ua'
+EMAIL_PORT = 2525
